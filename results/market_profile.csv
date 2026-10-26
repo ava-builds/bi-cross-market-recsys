@@ -1,0 +1,6 @@
+market,train trips,share of trips,test trips,domestic bookings,top destinations,distinctiveness (JS)
+Gondal,100592,0.46209678160285916,32630,0.1447178920818751,"Gondal, Fook Island, Cobra Island",0.23991680946523464
+The Devilfire Empire,51694,0.23747048501051973,16882,0.013991559648411844,"Cobra Island, Borginia, Fook Island",0.36775675409006403
+Elbonia,43490,0.19978317392942127,13843,0.09761030661499762,"Cobra Island, Fook Island, Elbonia",0.17572299456568655
+Tcherkistan,16291,0.07483715075843186,5459,0.042830724932669755,"Drusselstein, Aldovia, Oceania",0.5787106294178264
+Bartovia,5619,0.02581240869876795,1848,0.1357636706473916,"Bartovia, Fook Island, Cobra Island",0.33328004775932146

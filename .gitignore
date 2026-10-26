@@ -1,0 +1,7 @@
+data_repo/
+dist/
+report/*.pdf
+__pycache__/
+.ipynb_checkpoints/
+build_notebook.py
+report/make_report.js
